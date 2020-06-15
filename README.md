@@ -213,10 +213,11 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBack
 ``` bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/brook-pf.sh && chmod +x brook-pf.sh && bash brook-pf.sh
 ```
+---
 ####一键中转：
-bash
+``` bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/chimvian/brook/master/abccea/brook-pf.sh && chmod +x brook-pf.sh && bash brook-pf.sh
-
+```
 ---
 ## haproxy.sh
 
